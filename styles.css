@@ -5,21 +5,21 @@ body {
         Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f8f9fa; /* ±³¾°ÑÕÉ« */
-    color: #1e1e1e; /* ÎÄ×ÖÑÕÉ« */
+    background-color: #f8f9fa; /* ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É« */
+    color: #1e1e1e; /* ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É« */
 }
 
 .container {
-    max-width: 768px; /* ÈÝÆ÷×î´ó¿í¶È */
-    margin: 40px auto; /* ÈÝÆ÷¾ÓÖÐ */
+    max-width: 768px; /* ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ */
+    margin: 40px auto; /* ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ */
     padding: 20px;
-    background-color: #ffffff; /* ÈÝÆ÷±³¾°ÑÕÉ« */
-    border-radius: 15px; /* Ô²½Ç */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05); /* ÒõÓ° */
+    background-color: #ffffff; /* ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É« */
+    border-radius: 15px; /* Ô²ï¿½ï¿½ */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05); /* ï¿½ï¿½Ó° */
 }
 
 h1 {
-    color: #000000; /* ±êÌâÑÕÉ« */
+    color: #000000; /* ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É« */
     text-align: center;
     margin-bottom: 30px;
 }
@@ -35,41 +35,41 @@ h1 {
 }
 
 .btn {
-    font-weight: 500; /* °´Å¥×ÖÌå¼Ó´Ö */
-    border-radius: 12px; /* °´Å¥Ô²½Ç */
-    transition: all 0.3s ease; /* Æ½»¬¹ý¶ÉÐ§¹û */
+    font-weight: 500; /* ï¿½ï¿½Å¥ï¿½ï¿½ï¿½ï¿½Ó´ï¿½ */
+    border-radius: 12px; /* ï¿½ï¿½Å¥Ô²ï¿½ï¿½ */
+    transition: all 0.3s ease; /* Æ½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð§ï¿½ï¿½ */
 }
 
 .btn-primary {
-    background-color: #007bff; /* Ö÷°´Å¥±³¾°É« */
+    background-color: #007bff; /* ï¿½ï¿½ï¿½ï¿½Å¥ï¿½ï¿½ï¿½ï¿½É« */
     border-color: #007bff;
 }
 
 .btn-primary:hover {
-    background-color: #0069d9; /* Ö÷°´Å¥ÐüÍ£±³¾°É« */
+    background-color: #0069d9; /* ï¿½ï¿½ï¿½ï¿½Å¥ï¿½ï¿½Í£ï¿½ï¿½ï¿½ï¿½É« */
     border-color: #0062cc;
 }
 
 .btn-secondary {
-    background-color: #6c757d; /* ´Î°´Å¥±³¾°É« */
+    background-color: #6c757d; /* ï¿½Î°ï¿½Å¥ï¿½ï¿½ï¿½ï¿½É« */
     border-color: #6c757d;
 }
 
 .btn-secondary:hover {
-    background-color: #5a6268; /* ´Î°´Å¥ÐüÍ£±³¾°É« */
+    background-color: #5a6268; /* ï¿½Î°ï¿½Å¥ï¿½ï¿½Í£ï¿½ï¿½ï¿½ï¿½É« */
     border-color: #545b62;
 }
 
 .btn-success {
-    background-color: #28a745; /* ³É¹¦°´Å¥±³¾°É« */
+    background-color: #28a745; /* ï¿½É¹ï¿½ï¿½ï¿½Å¥ï¿½ï¿½ï¿½ï¿½É« */
     border-color: #28a745;
 }
 
 .btn-success:hover {
-    background-color: #218838; /* ³É¹¦°´Å¥ÐüÍ£±³¾°É« */
+    background-color: #218838; /* ï¿½É¹ï¿½ï¿½ï¿½Å¥ï¿½ï¿½Í£ï¿½ï¿½ï¿½ï¿½É« */
     border-color: #1e7e34;
 }
 
 .btn-block {
-    margin-bottom: 10px; /* °´Å¥¼ä¸ô */
+    margin-bottom: 10px; /* ï¿½ï¿½Å¥ï¿½ï¿½ï¿½ */
 }
